@@ -1,0 +1,9 @@
+Apple recently announced its AI-powered features in iOS 18 during WWDC 2024. These updates are aimed at making the iPhone experience smarter and more personalized. One of the key features is on-device Siri, which uses advanced language models to respond faster and more contextually — without sending data to the cloud.
+
+Another standout feature is "Genmoji," allowing users to create personalized emojis using text prompts powered by generative AI. Apple has also enhanced auto-reply and smart summary functions in Mail and Messages, helping users save time on everyday tasks.
+
+For privacy, Apple is focusing on Private Cloud Compute, which ensures sensitive data is processed securely, combining device and server-based models with encryption.
+
+These features are designed to compete with Google and Samsung, who have also introduced AI features in their latest devices. The company aims to redefine user interaction with mobile devices, blending AI seamlessly into the user interface.
+
+iOS 18 is expected to roll out to users by late 2024, with developer betas already available.
